@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\GitHub\so-thu-sai-gon-hung19011606\SOTHUXIGON\SOTHUXIGON\bin\Debug\SOTHUXIGON.exe.config
+C:\Users\Admin\Documents\GitHub\so-thu-sai-gon-hung19011606\SOTHUXIGON\SOTHUXIGON\bin\Debug\SOTHUXIGON.exe
+C:\Users\Admin\Documents\GitHub\so-thu-sai-gon-hung19011606\SOTHUXIGON\SOTHUXIGON\bin\Debug\SOTHUXIGON.pdb
+C:\Users\Admin\Documents\GitHub\so-thu-sai-gon-hung19011606\SOTHUXIGON\SOTHUXIGON\obj\Debug\SOTHUXIGON.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\so-thu-sai-gon-hung19011606\SOTHUXIGON\SOTHUXIGON\obj\Debug\SOTHUXIGON.Form1.resources
+C:\Users\Admin\Documents\GitHub\so-thu-sai-gon-hung19011606\SOTHUXIGON\SOTHUXIGON\obj\Debug\SOTHUXIGON.Properties.Resources.resources
+C:\Users\Admin\Documents\GitHub\so-thu-sai-gon-hung19011606\SOTHUXIGON\SOTHUXIGON\obj\Debug\SOTHUXIGON.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\GitHub\so-thu-sai-gon-hung19011606\SOTHUXIGON\SOTHUXIGON\obj\Debug\SOTHUXIGON.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\so-thu-sai-gon-hung19011606\SOTHUXIGON\SOTHUXIGON\obj\Debug\SOTHUXIGON.exe
+C:\Users\Admin\Documents\GitHub\so-thu-sai-gon-hung19011606\SOTHUXIGON\SOTHUXIGON\obj\Debug\SOTHUXIGON.pdb
